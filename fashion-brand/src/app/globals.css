@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+ background-color: #ffffff;
+}
+
+body {
+  background: #ffffff;
+}
+
+.nav-link.active {
+  color: #A7896F; 
+}
